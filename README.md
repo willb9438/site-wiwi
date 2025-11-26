@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
+    <li><a href="/page1">connexion</a></li>
     <meta charset="UTF-8">
     <title>Connexion</title>
     <style>
